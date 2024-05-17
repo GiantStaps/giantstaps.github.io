@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/authors/jill.html</loc>
-<lastmod>2024-05-15T23:25:48-04:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019/04/19/lossPt1.html</loc>
+<loc>http://localhost:4000/2019/04/19/loss-Pt1.html</loc>
 <lastmod>2019-04-19T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/04/02/theDoors.html</loc>
+<loc>http://localhost:4000/2020/04/02/the-Doors.html</loc>
 <lastmod>2020-04-02T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/07/14/twoStories.html</loc>
+<loc>http://localhost:4000/2020/07/14/two-Stories.html</loc>
 <lastmod>2020-07-14T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/08/11/lossPt2.html</loc>
+<loc>http://localhost:4000/2020/08/11/Loss-Pt2.html</loc>
 <lastmod>2020-08-11T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/10/19/%E5%8D%81%E6%9C%88%E5%8D%81%E4%B9%9D%E5%A4%9C-%E5%A1%98%E6%9C%97.html</loc>
+<lastmod>2020-10-19T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about.html</loc>
@@ -28,8 +28,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/staff.html</loc>
 </url>
 </urlset>

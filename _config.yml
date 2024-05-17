@@ -18,6 +18,8 @@ defaults:
     values:
       layout: "default"
 
+theme: jekyll-theme-persephone
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
