@@ -66,6 +66,3 @@ smiley:
 ```
 
 The smileys are not included neither in the theme nor the plugin. You should include theme in your blog matually and set the `dir`. You can find an example [here](https://github.com/erlzhang/erl.im/tree/master/smileys).
-
-
-
