@@ -3,7 +3,8 @@ layout: post
 author: Ruwei
 ---
 
-COVID took a break. I was graduating from high school and was a diehard Beatles fan. Every class became a music appreciation class.
+
+With COVID canceling exams and me being a diehard Beatles fan, every class turned into a music appreciation session.
 
 豆瓣上有对 The Doors 及其深度和诗意的评价，我入神地随着音乐看了一节课。我发现自己嫉妒 Jim Morrison 的诗人气质，有人将其与福柯冲击力的文字相论，令我对 The Doors 歌曲所试图表达的含义有了更深兴趣。
 
