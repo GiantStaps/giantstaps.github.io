@@ -3,7 +3,7 @@ layout: post
 author: Ruwei
 ---
 
-Years since our family's migration, my home street had become home to prostitutes. It gives more context to when a-hey died, is a great peep into what then China was like, and the shame and desirability of sexuality for a teenager in that context. 
+In a gritty urban transformation, a young man confronts the stark realities of human desires and moral hypocrisy. Too quick to make easy moral judgments, he grapples with his own hidden desires and the challenge of surviving his hypocrisy by ignoring those who truly need compassion.
 
 ### （一）
 
